@@ -1,0 +1,9 @@
+<html><center><b>Punto de Venta basado en NORD POS / Openbravo POS.</b><br>
+<br>
+<b>Diseñado para pantalla tactil.</b><br>
+Copyright © 2007-2009 Openbravo, S.L. <a href="http://sourceforge.net/p/openbravopos/">http://sourceforge.net/p/openbravopos/</a><br>
+<br>
+<b>Mantenimiento e Instalación</b>Oliver Caldera y Marco Lago.<br>
+<b>Contacto</b> Cel.: +58 412 5011073, +58 412 5014999.<br>
+Venezuela.<br>
+</center></html>
